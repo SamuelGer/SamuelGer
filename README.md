@@ -1,5 +1,5 @@
 # 👋 Hello. I'm Samuel Gercossimo
-
+¡![Header](./seu-header-image-name.png)
 ## 🚀 I'm a Java developer in the learning phase!
 ## 🚀 About me 
 
