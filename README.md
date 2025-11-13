@@ -1,16 +1,24 @@
-## Hi there 👋
+#👋 Hello! I'm Samuel Gercossimo�
 
-<!--
-**SamuelGer/SamuelGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 I'm a Java developer in the learning phase!
+## 🚀 About me 
 
-Here are some ideas to get you started:
+```java
+public class SamuelGer {
+    private String name = "Samuel Gerossimo";
+    private String role = "Software Engineer";
+    private String[] languages = {"pt_BR", "en_US"};
+    private String status = "Always learning & coding (I love coding)";
+    private String[] skills = {"Java", "SQL"};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void sayHello() {
+        System.out.println("Hello there! Welcome to my coding space!");
+        // From Brazilian coder
+        System.out.println("Oiá, Bem-Vindo ao meu espaço favorito.");
+    }
+
+    public static void main(String[] args) {
+        SamuelGer samuel = new SamuelGer();
+        samuel.sayHello();
+    }
+}
