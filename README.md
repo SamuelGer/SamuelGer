@@ -1,4 +1,4 @@
-#👋 Hello! I'm Samuel Gercossimo
+¡![Header](./github-header-banner (1).png)
 
 ## 🚀 I'm a Java developer in the learning phase!
 ## 🚀 About me 
