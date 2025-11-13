@@ -1,4 +1,4 @@
-#👋 Hello! I'm Samuel Gercossimo�
+#👋 Hello! I'm Samuel Gercossimo
 
 ## 🚀 I'm a Java developer in the learning phase!
 ## 🚀 About me 
