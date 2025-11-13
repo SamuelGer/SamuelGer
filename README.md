@@ -1,7 +1,12 @@
 
 ![Header](github-header-banner.png)
+
+_**Student** at UNA University_  
+_**Analysis and Systems Development** - Belo Horizonte_
 ## 🚀 I'm a Java developer in the learning phase!
-## 🚀 About me 
+
+
+### 🚀 About me 
 
 ```java
 public class SamuelGer {
@@ -22,3 +27,13 @@ public class SamuelGer {
         samuel.sayHello();
     }
 }
+```
+
+### Connect with me  
+<a href="https://linkedin.com/in/www.linkedin.com/in/samuel-gerçossimo-3a4635368" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/sferreiragc?igsh=MW16MWs5NmZiY25lOQ==" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<br/>  
