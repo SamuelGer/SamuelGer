@@ -1,7 +1,7 @@
 
 ![Header](github-header-banner.png)
 
-_**Student** at UNA University_  
+_**Student** at UNA University - Brazil_  
 _**Analysis and Systems Development** - Belo Horizonte_
 ## 🚀 I'm a Java developer in the learning phase! <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 
