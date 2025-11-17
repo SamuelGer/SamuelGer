@@ -19,7 +19,7 @@ public class SamuelGer {
     public void sayHello() {
         System.out.println("Hello there! Welcome to my coding space!");
         // From Brazilian coder
-        System.out.println("Oiá, Bem-Vindo ao meu espaço favorito.");
+        System.out.println("Bem-Vindo ao meu espaço favorito.");
     }
 
     public static void main(String[] args) {
