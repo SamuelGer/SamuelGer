@@ -13,14 +13,14 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4
 Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
  <br><br>
 </p>
----
  
 ## 🤖 Linguagens e Tecnologias
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,vscode,idea&theme=dark" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,mysql,git,github,vscode,idea&theme=dark" alt="Tecnologias"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/>
 </p>
-<!-- Adicione outros ícones na lista acima, separados por vírgula: mysql, postgres, docker, maven, postman, linux... -->
+
  
 ---
  
