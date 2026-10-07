@@ -39,7 +39,6 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelGer&theme=tokyonight&hide_border=false" alt="Streak"/>
 </div>
----
  
 ## 📫 Vamos conversar?
  
