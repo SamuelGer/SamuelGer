@@ -27,8 +27,8 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
 ## 🤖 Estatísticas
  
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=default&langs_count=5&theme=tokyonight&card_width=320" alt="Linguagens mais usadas"/>
 </div>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelGer&theme=tokyonight&hide_border=false" alt="Streak"/>
