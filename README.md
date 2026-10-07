@@ -9,17 +9,6 @@
   Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na UNA (Belo Horizonte - MG), com formatura prevista para julho de 2027.
   Foco em back-end com <b>Java</b> e <b>Spring Boot</b>, construindo APIs REST e buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 </p>
-<p align="center">
-  <a href="https://github.com/SamuelGer?tab=followers">
-    <img src="https://img.shields.io/github/followers/SamuelGer?label=SEGUIDORES&style=for-the-badge&logo=github&color=1f6feb" alt="Seguidores"/>
-  </a>
-  <a href="https://github.com/SamuelGer?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-VER-2ea043?style=for-the-badge&logo=github" alt="Repositórios"/>
-  </a>
-  <a href="https://github.com/SamuelGer">
-    <img src="https://komarev.com/ghpvc/?username=SamuelGer&label=VISITAS&style=for-the-badge&color=orange" alt="Visitas"/>
-  </a>
-</p>
 ---
  
 ## 🤖 Linguagens e Tecnologias
