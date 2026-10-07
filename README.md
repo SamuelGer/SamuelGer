@@ -3,11 +3,13 @@
 <h1 align="left">👨🏻‍💻 Samuel Gerçossimo</h1>
  
 <p align="left">
-  <code>Desenvolvedor Back-end Java</code>
+  <code>Desenvolvedor Back-end</code>
 </p>
 <p align="left">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na UNA (Belo Horizonte - MG), com formatura prevista para julho de 2027.
-  Foco em back-end com <b>Java</b> e <b>Spring Boot</b>, construindo APIs REST e buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4º semestre, com formatura prevista para julho de 2027.
+  <br><br>
+  Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
+  <br><br>
 </p>
 ---
  
