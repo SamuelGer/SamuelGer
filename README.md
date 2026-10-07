@@ -10,11 +10,11 @@ _**Analysis and Systems Development** - Belo Horizonte_
 
 ```java
 public class SamuelGer {
-    private String name = "Samuel Gerossimo";
+    private String name = "Samuel Gercossimo";
     private String role = "Software Engineer";
     private String[] languages = {"pt_BR", "en_US"};
     private String status = "Always learning & coding (I love coding)";
-    private String[] skills = {"Java", "MySQL", "API's REST"};
+    private String[] skills = {"Java", "SpringBoot", "SQL", "API's REST"};
     private String favoriteProgrammingLanguage = ".java"
 
     public void sayHello() {
