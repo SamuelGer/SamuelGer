@@ -26,19 +26,15 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
  
 ## 🤖 Estatísticas
  
-<table>
-  <tr>
-    <td valign="top">
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub"/>
-    </td>
-    <td valign="top">
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&card_width=340&custom_title=Tecnologias" alt="Tecnologias"/>
-    </td>
-  </tr>
-</table>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelGer&theme=tokyonight&hide_border=false" alt="Streak"/>
-</div>
+<p align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&card_width=420" alt="Estatísticas do GitHub"/>
+  &nbsp;&nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
+</p>
+
+<p align="left">
+  <img height="195" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
+</p>
  
 ## 📫 Vamos conversar?
  
