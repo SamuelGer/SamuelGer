@@ -1,40 +1,57 @@
 
-![Header](github-header-banner.png)
-
-_**Student** at UNA University - Brazil_  
-_**Analysis and Systems Development** - Belo Horizonte_
-## 🚀 I'm a developer! <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-
-
-### 🚀 About me 
-
-```java
-public class SamuelGer {
-    private String name = "Samuel Gercossimo";
-    private String[] roles = {"Software Engineer", "Backend Developer"};
-    private String[] languages = {"pt_BR", "en_US"};
-    private String status = "Always learning & coding (I love coding)";
-    private String[] skills = {"Java", "SpringBoot", "SQL", "API's REST"};
-    private String favoriteProgrammingLanguage = ".java"
-
-    public void sayHello() {
-        System.out.println("Hello there! Welcome to my portfolio!");
-        // From Brazilian coder
-        System.out.println("Bem-Vindo ao meu espaço favorito.");
-    }
-
-    public static void main(String[] args) {
-        SamuelGer samuel = new SamuelGer();
-        samuel.sayHello();
-    }
-}
-```
-
-### Connect with me  
-<a href="https://linkedin.com/in/samuelgerco" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sferreiragc?igsh=MW16MWs5NmZiY25lOQ==" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<br/>  
+</div>
+<h1 align="center">👨🏻‍💻 Samuel Gerçossimo</h1>
+ 
+<p align="center">
+  <code>Desenvolvedor Back-end Java</code>
+</p>
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na UNA (Belo Horizonte - MG), com formatura prevista para julho de 2027.
+  Foco em back-end com <b>Java</b> e <b>Spring Boot</b>, construindo APIs REST e buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+</p>
+<p align="center">
+  <a href="https://github.com/SamuelGer?tab=followers">
+    <img src="https://img.shields.io/github/followers/SamuelGer?label=SEGUIDORES&style=for-the-badge&logo=github&color=1f6feb" alt="Seguidores"/>
+  </a>
+  <a href="https://github.com/SamuelGer?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-VER-2ea043?style=for-the-badge&logo=github" alt="Repositórios"/>
+  </a>
+  <a href="https://github.com/SamuelGer">
+    <img src="https://komarev.com/ghpvc/?username=SamuelGer&label=VISITAS&style=for-the-badge&color=orange" alt="Visitas"/>
+  </a>
+</p>
+---
+ 
+## 🤖 Linguagens e Tecnologias
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,vscode,idea&theme=dark" alt="Tecnologias"/>
+</p>
+<!-- Adicione outros ícones na lista acima, separados por vírgula: mysql, postgres, docker, maven, postman, linux... -->
+ 
+---
+ 
+## 🤖 Estatísticas
+ 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelGer&theme=tokyonight&hide_border=false" alt="Streak"/>
+</div>
+---
+ 
+## 📫 Vamos conversar?
+ 
+<p align="center">
+  <a href="COLE_AQUI_O_LINK_DO_SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="COLE_AQUI_O_LINK_DO_SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
