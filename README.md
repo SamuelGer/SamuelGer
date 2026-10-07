@@ -6,10 +6,9 @@
   <code>Desenvolvedor Back-end</code>
 </p>
 <p align="left">
-Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4º semestre, com formatura prevista para julho de 2027.
-  <br><br>
-  Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
-  <br><br>
+Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4º semestre, com formatura prevista para julho de 2027.
+Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
 </p>
 ---
  
