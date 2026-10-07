@@ -7,11 +7,11 @@
 </p>
 <p align="left">
 Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
- <br><br>
+ <br>
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4º semestre, com formatura prevista para julho de 2027.
- <br><br>
+ <br>
 Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
- <br><br>
+ <br>
 </p>
  
 ## 🤖 Linguagens e Tecnologias
@@ -29,11 +29,11 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
 <p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&card_width=420" alt="Estatísticas do GitHub"/>
   &nbsp;&nbsp;
-  <img height="195" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
 </p>
 
 <p align="left">
- <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
+ <img height="195" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
 </p>
  
 ## 📫 Vamos conversar?
