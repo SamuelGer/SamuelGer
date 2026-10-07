@@ -1,40 +1,51 @@
 
-![Header](github-header-banner.png)
+</div>
+<h1 align="left">👨🏻‍💻 Samuel Gerçossimo - Portfólio</h1>
+ 
+<p align="left">
+  <code>Desenvolvedor Back-end</code>
+</p>
+<p align="left">
+Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
+ <br><br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA, pelo 4º semestre, com formatura prevista para julho de 2027.
+ <br><br>
+Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
+ <br><br>
+</p>
+ 
+## 🤖 Linguagens e Tecnologias
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,mysql,git,github,vscode,idea&theme=dark" alt="Tecnologias"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/>
+</p>
 
-_**Student** at UNA University - Brazil_  
-_**Analysis and Systems Development** - Belo Horizonte_
-## 🚀 I'm a developer! <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+ 
+---
+ 
+## 🤖 Estatísticas
+ 
+<p align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&card_width=420" alt="Estatísticas do GitHub"/>
+  &nbsp;&nbsp;
+  <img height="195" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
+</p>
 
-
-### 🚀 About me 
-
-```java
-public class SamuelGer {
-    private String name = "Samuel Gercossimo";
-    private String[] roles = {"Software Engineer", "Backend Developer"};
-    private String[] languages = {"pt_BR", "en_US"};
-    private String status = "Always learning & coding (I love coding)";
-    private String[] skills = {"Java", "SpringBoot", "SQL", "API's REST"};
-    private String favoriteProgrammingLanguage = ".java"
-
-    public void sayHello() {
-        System.out.println("Hello there! Welcome to my portfolio!");
-        // From Brazilian coder
-        System.out.println("Bem-Vindo ao meu espaço favorito.");
-    }
-
-    public static void main(String[] args) {
-        SamuelGer samuel = new SamuelGer();
-        samuel.sayHello();
-    }
-}
-```
-
-### Connect with me  
-<a href="https://linkedin.com/in/samuelgerco" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sferreiragc?igsh=MW16MWs5NmZiY25lOQ==" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<br/>  
+<p align="left">
+ <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
+</p>
+ 
+## 📫 Vamos conversar?
+ 
+<p align="left">
+  <a href="https://linkedin.com/in/samuelgerco">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sferreiragc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:samuelgercossimo2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
