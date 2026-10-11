@@ -12,7 +12,7 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
  <br>
 </p>
  
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,mysql,git,python,vscode,idea&theme=dark" alt="Tecnologias"/>
