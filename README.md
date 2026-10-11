@@ -5,6 +5,7 @@
 <p align="left">
   <code>Desenvolvedor Back-end</code>
 </p>
+<h1 align="left">Olá 👋</h1>
 <p align="left">
 Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
  <br>
