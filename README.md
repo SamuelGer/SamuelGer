@@ -17,7 +17,7 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
 ## 🤖 Linguagens e Tecnologias
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,mysql,git,github,vscode,idea&theme=dark,python" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,mysql,git,github,python,vscode,idea&theme=dark" alt="Tecnologias"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/>
 </p>
 
