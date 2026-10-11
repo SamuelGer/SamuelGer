@@ -7,7 +7,7 @@
 </p>
 <h1 align="left">Olá 👋</h1>
 <p align="left">
-Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte - MG. Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
+Me chamo <b>Samuel Gerçossimo Ferreira</b>, e sou natural de Belo Horizonte (MG). Sou <b>desenvolvedor back-end apaixonado por tecnologia</b> e por transformar ideias em códigos que apresentam resultados efetivos.
  <br>
 Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo projetos do zero ou explorando ferramentas que nunca usei. Se tem um problema para resolver, eu quero entender como ele funciona por dentro.
  <br>
