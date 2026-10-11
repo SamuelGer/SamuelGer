@@ -24,17 +24,20 @@ Estou sempre aprendendo algo novo, seja praticando algoritmos, construindo proje
  
 ---
  
-## 🤖 Estatísticas
- 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&card_width=420" alt="Estatísticas do GitHub"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
-</p>
+<details>
+  <summary><b>Github Stats</b> ⚡</summary>
+  <br>
 
-<p align="left">
- <img height="180" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
-</p>
+  <p align="left">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SamuelGer&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&card_width=420" alt="Estatísticas do GitHub"/>
+    &nbsp;&nbsp;
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGer&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&card_width=420" alt="Tecnologias"/>
+  </p>
+
+  <p align="left">
+    <img height="195" src="https://streak-stats.demolab.com/?user=SamuelGer&theme=tokyonight&locale=pt_BR" alt="Streak"/>
+  </p>
+</details>
  
 ## 📫 Vamos conversar?
  
